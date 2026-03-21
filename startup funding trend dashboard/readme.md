@@ -1,1 +1,1 @@
-*Startup Funding Trend Dashboard analyzing state-wise funding patterns in India (2020–2023).The project uses a synthetic dataset to explore yearly trends, sector growth, funding stages, and investor activity through interactive data visualization tools.*
+*Startup Funding Trend Dashboard analyzing state-wise funding patterns in India (2020–2025).The project uses a synthetic dataset to explore yearly trends, sector growth, funding stages, and investor activity through interactive data visualization tools.*
